@@ -1,0 +1,17 @@
+# Ignore environment files with secrets
+.env
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
